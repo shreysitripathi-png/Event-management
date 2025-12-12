@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event Management Login</title>
+    <!-- <link rel="webpage" href="index2.html"> -->
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: "https://png.pngtree.com/thumb_back/fh260/background/20250429/pngtree-stunning-wedding-stage-setup-for-luxury-event-planning-mood-boards-image_17236058.jpg" height="500", width="400"('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3IdVMS3jQQb99MTfIGkKgx-vbOHVNKlftQ&s') no-repeat center center/cover;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 10px;
+            width: 350px;
+            color: #fff;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .input-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+        }
+
+        .error {
+            color: #ff8080;
+            font-size: 14px;
+            height: 16px;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #ff9800;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body background="https://blog.venuelook.com/wp-content/uploads/2020/05/venues.jpg">
+    <div class="container">
+        <h2>Login</h2>
+        <form onsubmit="return validateForm()">
+            <div class="input-group">
+                <label>Email</label>
+                <input type="text" id="email" />
+                <div id="emailError" class="error"></div>
+            </div>
+
+            <div class="input-group">
+                <label>Password</label>
+                <input type="password" id="password" />
+                <div id="passwordError" class="error"></div>
+            </div>
+            <button type="submit" onclick="location.href-'index2.html'">Login</button></a>
+        </form>
+    </div>
+
+    <script>
+        function validateForm() {
+            let isValid = true;
+
+            document.getElementById("emailError").textContent = "";
+            document.getElementById("passwordError").textContent = "";
+
+            // Email validation
+            const email = document.getElementById("email").value.trim();
+            const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            if (email === "") {
+                document.getElementById("emailError").textContent = "Email is required.";
+                isValid = false;
+            } else if (!emailPattern.test(email)) {
+                document.getElementById("emailError").textContent = "Invalid email format.";
+                isValid = false;
+            }
+
+            // Password validation
+            const password = document.getElementById("password").value.trim();
+            if (password === "") {
+                document.getElementById("passwordError").textContent = "Password is required.";
+                isValid = false;
+            } else if (password.length < 6) {
+                document.getElementById("passwordError").textContent = "Password must be at least 6 characters long.";
+                isValid = false;
+            }
+
+            if (isValid) {
+                alert("Login successful!");
+                window.location.href = "index2.html";
+            }
+
+            return false;
+        }
+    </script>
+</body>
+
+</html>

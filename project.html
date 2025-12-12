@@ -1,0 +1,79 @@
+<!doctype html>
+<p>To request a booking, fill out the simple form below or call us. We respond within 3 business days.</p>
+<body background="https://static.vecteezy.com/system/resources/previews/060/383/215/non_2x/a-soft-and-dreamy-gradient-background-featuring-smooth-pastel-shades-of-pink-purple-and-blue-ideal-for-digital-design-or-aesthetic-visuals-vector.jpg" height="100" width="100">
+<form id="booking-form" action="#" method="post">
+<p>
+<label for="name">Full name:<br>
+<input type="text" id="name" name="name">
+</label>
+</p>
+<p>
+<label for="email">Email:<br>
+<input type="email" id="email" name="email">
+</label>
+</p> 
+<p>
+<label for="type">Event type:<br>
+<select id="type" name="type">
+<option value="wedding">Wedding</option>
+<option value="corporate">Corporate</option>
+<option value="party">Private Party</option>
+<option value="other">Other</option>
+</select>
+</label>
+<img src="https://cdn.dribbble.com/userupload/5461273/file/original-e3df2dc822ce8631f00f90a6bd6bb02a.jpeg" width="500",height="500", align="right"></img>
+</p>
+<p>
+<label for="date">Preferred date:<br>
+<input type="date" id="date" name="date">
+</label>
+</p>
+<p>
+<label for="guests">Estimated guests:<br>
+<input type="number" id="guests" name="guests" min="1">
+</label>
+</p>
+<p>
+<label for="notes">Notes:<br>
+<textarea id="notes" name="notes" rows="4"></textarea>
+</label>
+</p>
+<p>
+<input type="submit" value="Send request">
+<input type="reset" value="Clear">
+</form>
+
+
+<h3>How booking works</h3>
+<ol>
+<li>We send a proposal within 3 business days.</li>
+<li>A 30% deposit reserves your date.</li>
+<li>Final payment is due 14 days before the event.</li>
+</ol>
+
+
+
+
+<h2 id="contact">Contact</h2>
+<p>Elite Events<br>
+Phone: (555) 987-6543<br>
+
+
+
+<p>We promise to make your special day the best.</p>
+
+
+<script>
+// basic form handler to show a confirmation without backend
+(function(){
+var form = document.getElementById('booking-form');
+form.onsubmit = function(e){
+e.preventDefault();
+var name = document.getElementById('name').value || 'Guest';
+alert('Thank you, ' + name + '. Your request has been sent. We will contact you soon.');
+form.reset();
+};
+})();
+</script>
+</body>
+</html>
