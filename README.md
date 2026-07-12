@@ -76,3 +76,15 @@ Backend Integration: Implement a proper server-side script for form submission t
 Design Polish: Enhance the responsive design and utilize more modern CSS techniques (like Flexbox or Grid) for a more professional look.
 
 Image Optimization: Use properly sized and optimized local images instead of external, uncropped links.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreysitripathi-png/Event-management/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreysitripathi-png/Event-management/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+<!---LeetCode Topics End-->
