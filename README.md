@@ -87,4 +87,16 @@ Image Optimization: Use properly sized and optimized local images instead of ext
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreysitripathi-png/Event-management/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/shreysitripathi-png/Event-management/tree/main/0231-power-of-two/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/shreysitripathi-png/Event-management/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/shreysitripathi-png/Event-management/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
