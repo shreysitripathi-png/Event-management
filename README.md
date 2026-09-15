@@ -82,6 +82,7 @@ Image Optimization: Use properly sized and optimized local images instead of ext
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shreysitripathi-png/Event-management/tree/main/0001-two-sum/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreysitripathi-png/Event-management/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -99,4 +100,8 @@ Image Optimization: Use properly sized and optimized local images instead of ext
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shreysitripathi-png/Event-management/tree/main/0231-power-of-two/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/shreysitripathi-png/Event-management/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
