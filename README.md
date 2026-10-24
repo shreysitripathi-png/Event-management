@@ -107,20 +107,24 @@ Image Optimization: Use properly sized and optimized local images instead of ext
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
