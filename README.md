@@ -108,10 +108,12 @@ Image Optimization: Use properly sized and optimized local images instead of ext
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +122,9 @@ Image Optimization: Use properly sized and optimized local images instead of ext
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shreysitripathi-png/Event-management/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
